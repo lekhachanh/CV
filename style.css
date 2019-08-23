@@ -1,0 +1,73 @@
+#head {
+    background: yellowgreen;
+    height: 150px;
+    width: 62%;
+    margin-left: 150px;
+    margin-right: 5px;
+    border: 1px solid black;
+    float: left;
+}
+
+.a {
+    list-style-type: circle;
+    height: 100px;
+    width: 60%;
+    margin-top: 0px;
+    float: right;
+}
+
+#name {
+    float: left;
+    margin-top: 0;
+}
+li{
+    font-weight: bold;
+}
+#head-avatar {
+    background: mintcream;
+    height: 150px;
+    width: 20%;
+    border: 1px solid black;
+    margin-left: 5px;
+    margin-right: 50px;
+    margin-bottom: 10px;
+    float: left;
+}
+
+#lampard {
+    height: 100%;
+    width: 100%;
+}
+
+.content{
+    background: lightslategray;
+    height: 250px;
+    width: 83%;
+    border: 1px solid black;
+    margin-left: 150px;
+    margin-top: 10px;
+    margin-right: 150px;
+    clear: both;
+}
+.left {
+    width: 20%;
+    float: left;
+}
+.right {
+    width: 60%;
+    float: left;
+}
+#footer {
+    background: lightslategray;
+    height: 50px;
+    width: 83%;
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-right: 150px;
+    margin-left: 150px;
+}
+#footer a {
+    font-weight: bold;
+    text-decoration: none;
+    float: left;
+}
